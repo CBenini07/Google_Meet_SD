@@ -5,12 +5,15 @@ Trabalho 1 da matéria de Sistemas Distribuídos
 João Rafael de Freitas Guimarães - 800295  
 Cauã Benini - 801046
 
+## Demonstração
+
+https://github.com/user-attachments/assets/490c9155-d427-44c2-a0e7-ffde28068369
+
 ## Dependências
 
 ```bash
 pip install -r requirements.txt
 ```
-
 ## Configuração
 
 ### Obtendo o IP da Máquina A
@@ -22,9 +25,9 @@ Para descobrir rapidamente o IP local:
   ```bash
   hostname -I
   ```
-
+  
   ou
-
+  
   ```bash
   ip addr show
   ```
